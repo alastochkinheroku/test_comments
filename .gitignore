@@ -1,0 +1,12 @@
+*.tdc
+*.exe
+*.dll
+*.gam
+*.log
+!t2r32.exe
+!htmlt2.exe
+!tc32.exe
+!stgs.exe
+!QtCore4.dll
+!maketrx32.exe
+!tadsrsc32.exe
